@@ -5,6 +5,10 @@
 
 <p>I'm Anass Benamara, an engineering student who got really interested in machine learning and data science along the way. I like building and training models, but also turning them into real applications, especially with AI agents and backend systems. Most of the time I just enjoy coding, trying things from scratch, breaking stuff and figuring out why it doesn’t work. I'm always learning new things and I like sharing what I discover when I can.</p>
 
+<p align="center">
+  <img src="assets/neural_net.svg" width="800"/>
+</p>
+
 ---
 
 ###  Tech Stack
