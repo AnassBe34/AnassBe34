@@ -1,7 +1,5 @@
 
----
-
-### About
+## About
 
 <p>I'm Anass Benamara, an engineering student who got really interested in machine learning and data science along the way. I like building and training models, but also turning them into real applications, especially with AI agents and backend systems. Most of the time I just enjoy coding, trying things from scratch, breaking stuff and figuring out why it doesn’t work. I'm always learning new things and I like sharing what I discover when I can.</p>
 
@@ -9,11 +7,11 @@
   <img src="assets/neural_net.svg" width="800"/>
 </p>
 
----
 
-###  Tech Stack
 
-####  Machine & Deep Learning  
+##  Tech Stack
+
+###  Machine & Deep Learning  
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
@@ -23,9 +21,8 @@
   <img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=langchain&logoColor=white"/>
 </p>
 
----
 
-####  Web Development  
+###  Web Development  
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
@@ -35,9 +32,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>
 
----
 
-####  Databases  
+
+###  Databases  
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -45,7 +42,7 @@
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white"/>
 </p>
 
-### Contact
+## Contact
 
 <p>
   <a href="https://linkedin.com/in/anass-benamara-751b59258/">
